@@ -1,0 +1,6 @@
+assets/
+*.key
+*.partial
+restored/
+*.tar.gz
+__pycache__/
